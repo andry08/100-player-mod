@@ -1,3 +1,10 @@
+>***The repo is now public again, however I won't be mantaining this mod anymore.***
+
+>For anyone discovering this for the first time, this was the first open source 100 players mod. I updated it for a bit, but then I privatized the mod for a while, wanting to refresh the mod, but I didn't get around to doing it, so this repo is now outdated.<br>
+>I suggest you to visit other forks to find this mod for newer versions of the game:
+>- https://github.com/CrowdedMods/CrowdedMod
+>- https://github.com/XtraCube/AllOfUs
+
 # 100 Players Mod
 This mod unlocks the possibility for more than 10 player to join in an Among Us lobby.
 The official servers won't allow for it though, so you will have to host an [Impostor](https://github.com/AeonLucid/Impostor) custom server.
